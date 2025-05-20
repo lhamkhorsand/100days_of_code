@@ -1,0 +1,24 @@
+[33mcommit ddb6cbe5ac046b065e5d148e5571ff7cdb68c470[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Elham Khorsand <lham.bk@gmail.com>
+Date:   Sun May 4 17:39:25 2025 +0330
+
+    add 2 project pizza and island
+
+[33mcommit dadc134c7052324eb9c7b75c5fc031b915d9813b[m
+Author: Elham Khorsand <lham.bk@gmail.com>
+Date:   Sat May 3 19:07:27 2025 +0330
+
+    'fix
+    '
+
+[33mcommit a21f8baa0cb7016e2810b0d54d9a8e048abbe7fc[m
+Author: Elham Khorsand <lham.bk@gmail.com>
+Date:   Sat May 3 18:32:31 2025 +0330
+
+    Initial commit with README
+
+[33mcommit 9ecff1db6743bd1da140411850ca4ac606cebde0[m
+Author: Elham Khorsand <lham.bk@gmail.com>
+Date:   Sat May 3 18:28:29 2025 +0330
+
+    add tip caculator project
