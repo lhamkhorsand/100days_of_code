@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4951b331-12f6-46b0-b0b6-4392722b5a07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100days_of_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100days_of_code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4951b331-12f6-46b0-b0b6-4392722b5a07" name="Changes" comment="add Hangman project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +62,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747723802773</updated>
-      <workItem from="1747723804044" duration="340000" />
+      <workItem from="1747723804044" duration="736000" />
     </task>
+    <task id="LOCAL-00001" summary="add Hangman project">
+      <option name="closed" value="true" />
+      <created>1747724222168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747724222168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Hangman project">
+      <option name="closed" value="true" />
+      <created>1747724428244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747724428244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Hangman project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Hangman project" />
   </component>
 </project>
