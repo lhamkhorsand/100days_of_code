@@ -58,9 +58,19 @@ stages = [r'''
 =========
 ''']
 
+logo = r''' 
+ _                                             
+| |                                            
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/    '''
 word_list = ["aardvark", "baboon", "camel"]
 
 chosen_word = random.choice(word_list)
+print(logo)
 print(chosen_word)
 #
 
